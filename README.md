@@ -1,5 +1,7 @@
 # SVM-Optimization-for-health-application
-In this project, we implement training methods for Support Vector Machines (supervised learning) applied to classification problems, namely for an health application
+In this project, we train Support Vector Machines (supervised learning) applied to classification problems, namely for an health application. We optimize the model using different optimization methods using quadratic problem optimization, or
+by decomposing the problem by setting a working set with the most violating pair (MVP - Most
+Violating Pair ) or by more than one using (SMO - Sequential Minimal Optimization). 
 
 ## Getting Started
 
