@@ -12,9 +12,9 @@ git clone https://github.com/melbrbry/SVM-Optimization-for-health-application
 ### Prerequisites
 
 Required packages (use pip install on linux):  
-numpy
-sklearn
-scipy
+numpy  
+sklearn  
+scipy  
 pandas
 
 ## Repository Description
