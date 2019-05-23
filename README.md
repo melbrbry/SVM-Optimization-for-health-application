@@ -23,13 +23,13 @@ The repository has only one branch: the master branch.
 ## Documentation
 In this section, I write a brief description of some of the repository files/folders
 
-**lstm.py**: build the LSTM network and do the training, validation and testing on the dataset.
+**main.py**: the main code, it runs all the three methods adopted for the solution with the optimal hyperparameters.
 
-**preprocessing.py**: preprocess the data, the output of MRCNN, and put it in a format ready to be fed to the LSTM.
+**function.py**: impelements the three methods adopted.
 
-**utilities.py**: some helpful functions that are used in lstm.py
+**output_homework2_28.txt**: a file where the results are saved.
 
-**models**: the best performing model weights, plots and log files of the results.
+**Report.pdf**: full project report
 
 ## Acknowledgement
 - This project is done as part of the Optimization Methods for Machine Learning (OMML) course taught by prof. Laura Palagi - Sapienza Università di Roma.
